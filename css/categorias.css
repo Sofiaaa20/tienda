@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background: linear-gradient(rgb(172, 172, 218), rgb(223, 201, 205));
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    padding: 30px;
+}
+
+.card{
+    width: 25vw;
+    height: 300px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.card-categorias{
+    width: 100%;
+    height: 100%;
+    border-radius:20px;
+    margin-bottom: 30px;
+
+
+}
+
+.contenedor{
+    width: 100%;
+    height: 700px;
+    text-align: center;
+    display: flex;
+}
+
+.nombre{
+    
+    margin-top: 100px;
+    padding: 10px;
+    background-color: transparent;
+    border: 2px solid #fefefe;
+    background-color: #fff;
+    border-radius:16px ;
+    transition: all 0.25s ease;
+
+}
